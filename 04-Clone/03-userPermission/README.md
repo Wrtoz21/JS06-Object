@@ -2,9 +2,13 @@
 - หาก key ซ้ำกันให้ใช้ค่าของตัวแปรที่มีตัวเลขสูงกว่า
 
 ```js
-const permission1 = { canView: false, canDelete: false };
-const permission2 = { canUpdate: true, canCreate: true };
-const permission3 = { canCreate: false, canDelete: true };
-const permission4 = { canView: true };
+const permission1 = 
+{ canView: false, canDelete: false };
+const permission2 = 
+{ canUpdate: true, canCreate: true };
+const permission3 = 
+{ canCreate: false, canDelete: true };
+const permission4 = 
+{ canView: true };
 
 ```

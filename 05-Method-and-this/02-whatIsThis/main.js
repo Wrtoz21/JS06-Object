@@ -1,0 +1,1 @@
+// Joe เพราะ var เป็น global variable
